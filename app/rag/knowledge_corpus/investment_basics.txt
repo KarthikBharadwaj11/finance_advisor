@@ -1,0 +1,68 @@
+INVESTMENT BASICS FOR INDIVIDUAL INVESTORS
+
+## Asset Classes
+
+Stocks (Equities)
+Stocks represent ownership in a company. They offer higher long-term returns (historically 7–10% annually after inflation for broad US indices) but come with higher short-term volatility. Key concepts:
+- Market capitalization: Large-cap stocks (>$10B) are more stable; small-cap (<$2B) have higher growth potential but more risk.
+- Diversification: Owning a broad index fund (S&P 500, Total Market) eliminates single-stock risk.
+- Dividend yield: Some stocks return cash quarterly. Dividend-paying stocks (utilities, REITs) tend to be less volatile.
+
+Bonds (Fixed Income)
+Bonds are loans to governments or corporations in exchange for periodic interest payments. They provide:
+- Predictable income stream
+- Capital preservation (lower volatility than stocks)
+- Portfolio ballast during equity market downturns
+- Historical returns: 2–5% annually depending on duration and credit quality
+Types: Treasury bonds (safest), investment-grade corporate bonds, high-yield (junk) bonds (higher risk/return), municipal bonds (tax advantages for high earners).
+
+Real Estate
+Real estate exposure can be achieved via:
+- REITs (Real Estate Investment Trusts): Publicly traded, liquid. Required to distribute 90% of taxable income.
+- Direct property: Higher returns possible but illiquid and management-intensive.
+- Real estate historically returns 4–8% annually with inflation protection.
+
+Cash and Cash Equivalents
+Money market funds, high-yield savings accounts, CDs, Treasury bills. Preserve capital with minimal return (currently 4–5% in high-rate environments). Critical for emergency funds.
+
+Commodities and Alternatives
+Gold, oil, agricultural products. Low correlation with stocks/bonds makes them useful for diversification. However, commodities don't produce income and returns depend solely on price appreciation.
+
+## Compound Interest: The Foundation of Wealth Building
+
+The Rule of 72: Divide 72 by the annual return rate to estimate how many years it takes to double an investment.
+- At 6% return: ~12 years to double
+- At 9% return: ~8 years to double
+- At 4% return: ~18 years to double
+
+Starting early is the single most impactful decision. $10,000 invested at age 25 at 7% becomes $149,745 by age 65. The same $10,000 invested at 35 becomes only $76,123.
+
+## Tax-Advantaged Accounts (US)
+
+401(k): Pre-tax contributions reduce current taxable income. Employer match is free money — always contribute at least enough to capture the full match. 2024 limit: $23,000 ($30,500 if age 50+).
+
+Roth IRA: Contributions are post-tax but withdrawals in retirement are completely tax-free. Best when you expect to be in a higher tax bracket in retirement. 2024 limit: $7,000 ($8,000 if age 50+). Phase-out begins at $146K (single) / $230K (married).
+
+HSA (Health Savings Account): Triple tax advantage — deductible contributions, tax-free growth, tax-free withdrawals for medical expenses. After age 65, withdrawals for any purpose are taxed as ordinary income (like a 401k).
+
+## Index Funds vs Active Management
+
+Academic research (Fama-French, SPIVA reports) consistently shows that 80–90% of actively managed funds underperform their benchmark index over 15+ year periods after fees.
+
+Index fund advantages:
+- Lower fees (expense ratio 0.03–0.20% vs 0.75–1.5% for active)
+- Broad diversification
+- Tax efficiency (low turnover)
+- Outperform most active managers over long periods
+
+Recommended core holdings: VTI (Total US Market), VXUS (International), BND (US Bonds), or a single Target Date fund for simplicity.
+
+## Dollar-Cost Averaging (DCA)
+
+Investing a fixed dollar amount at regular intervals regardless of market price. Benefits:
+- Removes the temptation to time the market
+- Automatically buys more shares when prices are low
+- Reduces impact of volatility
+- Builds investment discipline
+
+Studies show DCA vs lump-sum investing: Lump-sum outperforms ~67% of the time in historical backtests, but DCA reduces regret risk and is behaviorally optimal for most investors.

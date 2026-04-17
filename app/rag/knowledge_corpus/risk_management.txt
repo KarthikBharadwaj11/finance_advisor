@@ -1,0 +1,93 @@
+RISK MANAGEMENT AND RISK PROFILES IN PERSONAL FINANCE
+
+## Defining Risk Tolerance
+
+Risk tolerance has two components that must both be assessed:
+
+1. Risk Capacity: Your objective ability to absorb losses based on:
+   - Time horizon (longer = more capacity)
+   - Income stability (stable job = more capacity)
+   - Existing wealth relative to goals
+   - Liquidity needs (emergency fund coverage)
+
+2. Risk Willingness: Your psychological comfort with volatility and potential losses
+   - How would you react to a 30% portfolio decline in one year?
+   - Have you experienced significant investment losses before?
+   - Do you check your portfolio daily or quarterly?
+
+Risk tolerance mismatch is dangerous: An aggressive portfolio on a conservative personality leads to panic selling at market bottoms, permanently destroying wealth.
+
+## Risk Profiles
+
+CONSERVATIVE INVESTOR
+- Age: Typically 55+ or those with short horizons
+- Goal: Capital preservation with modest growth
+- Typical allocation: 30% stocks / 50% bonds / 20% cash
+- Max comfortable drawdown: 10–15%
+- Expected return: 3–5% annually
+- Suitable for: Emergency funds, money needed within 3 years, retirees
+
+MODERATE INVESTOR
+- Age: Typically 35–55, balanced growth/stability priorities
+- Goal: Growth with manageable volatility
+- Typical allocation: 60% stocks / 35% bonds / 5% cash
+- Max comfortable drawdown: 20–30%
+- Expected return: 5–7% annually
+- Suitable for: Retirement 10–20 years away, medium-term goals
+
+AGGRESSIVE INVESTOR
+- Age: Typically under 40 with long horizon
+- Goal: Maximum long-term growth, accepts short-term volatility
+- Typical allocation: 80–90% stocks / 10–15% bonds / 5% cash/alternatives
+- Max comfortable drawdown: 40–50%
+- Expected return: 7–10% annually
+- Suitable for: Retirement 20+ years away, wealth accumulation phase
+
+## Key Risk Metrics
+
+Volatility (Standard Deviation): Measures how much returns deviate from the average. Higher volatility = higher risk. S&P 500 historical annual volatility: ~15%.
+
+Beta: Measures an investment's sensitivity to market movements. Beta of 1.0 = moves with market. Beta of 1.5 = 50% more volatile than market.
+
+Sharpe Ratio: (Return - Risk-Free Rate) / Standard Deviation. Measures return per unit of risk. Higher is better. Anything above 1.0 is considered good.
+
+Maximum Drawdown: The largest peak-to-trough decline over a period. S&P 500 max drawdown in 2008-09 was -57%. Knowing your historical max drawdown prepares investors psychologically.
+
+Correlation: How two assets move together. Assets with low/negative correlation (like stocks and bonds) provide diversification benefits. During extreme market stress, correlations often converge to 1.0.
+
+## Emergency Fund: The Foundation of All Financial Planning
+
+Before investing, maintain an emergency fund of:
+- 3 months expenses: Minimum for stable dual-income households
+- 6 months expenses: Recommended for most people
+- 9–12 months expenses: Self-employed, single income, or volatile employment
+
+Emergency fund rules:
+- Must be immediately liquid (savings account, money market)
+- Never invested in stocks or anything that can decline
+- Separate account to avoid spending temptation
+- Replenish immediately after any withdrawal
+
+Failure to maintain an emergency fund leads to forced investment liquidation at the worst possible times (market bottoms) or high-interest debt accumulation.
+
+## Sequence of Returns Risk
+
+Particularly relevant near retirement: the order in which investment returns occur matters enormously.
+- Two investors with the same average return can have drastically different outcomes depending on whether poor returns occur early or late in retirement.
+- Mitigation: Hold 1–3 years of expenses in cash/bonds as a "buffer" near and in retirement.
+- Strategy: Bucket approach — Bucket 1 (0–3 years, cash), Bucket 2 (3–10 years, bonds), Bucket 3 (10+ years, stocks).
+
+## Debt Risk Assessment
+
+High-interest debt (above 6–7%) should always be prioritized before investing:
+- Credit card debt at 20%+ APR: Guaranteed 20% return by paying it off
+- Personal loans at 10%+: Pay off before investing
+- Student loans at 5–7%: Context-dependent; may invest alongside repayment
+- Mortgage at 3–4%: Typically favorable to invest instead of prepaying
+- Mortgage at 7%+: Consider aggressive prepayment
+
+Debt-to-Income ratio (DTI) thresholds:
+- Below 20%: Healthy, comfortable for investing
+- 20–35%: Manageable but limit new debt
+- 35–50%: Concerning, focus on debt reduction
+- Above 50%: Financial stress territory, debt payoff is top priority

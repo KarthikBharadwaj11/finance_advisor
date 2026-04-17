@@ -1,0 +1,94 @@
+RETIREMENT PLANNING: A COMPLETE FRAMEWORK
+
+## The 4% Safe Withdrawal Rate
+
+The "4% Rule" (Bengen, 1994; Trinity Study) states that a retiree can withdraw 4% of their initial portfolio value annually, adjusted for inflation, with a high probability (>95%) of not running out of money over 30 years.
+
+Retirement number calculation: Annual expenses × 25
+- $40,000/year expenses → $1,000,000 needed
+- $60,000/year expenses → $1,500,000 needed
+- $80,000/year expenses → $2,000,000 needed
+
+Updated research (Pfau, Kitces): In current low-yield environments, 3–3.5% may be more conservative and appropriate for very early retirees (60-year horizons).
+
+## Retirement Account Types and Strategies
+
+Traditional 401(k) / IRA:
+- Pre-tax contributions reduce current taxable income
+- Tax-deferred growth
+- All withdrawals taxed as ordinary income in retirement
+- Required Minimum Distributions (RMDs) start at age 73
+- Best when current tax rate > expected retirement tax rate
+
+Roth 401(k) / Roth IRA:
+- Post-tax contributions (no current tax benefit)
+- Tax-free growth AND withdrawals
+- No RMDs for Roth IRAs
+- Best when current tax rate < expected retirement tax rate, or for young earners expecting income growth
+- Also valuable for tax diversification
+
+Tax diversification strategy: Maintain both traditional and Roth accounts to give flexibility in retirement to control taxable income (e.g., withdraw more Roth in high-tax years, more traditional in low-tax years).
+
+## Employer Match: Non-Negotiable Free Money
+
+A 100% employer match up to 6% of salary = an instant 100% return on those dollars. This is the highest guaranteed return available to any investor. Never leave it on the table.
+
+Example: Salary = $80,000. Match = 100% up to 6% = $4,800/year free from employer.
+Not contributing to get the match = forfeiting $4,800 in compensation.
+
+## Retirement Savings Benchmarks by Age (Fidelity Guidelines)
+
+- Age 30: 1× annual salary saved
+- Age 35: 2× annual salary
+- Age 40: 3× annual salary
+- Age 45: 4× annual salary
+- Age 50: 6× annual salary
+- Age 55: 7× annual salary
+- Age 60: 8× annual salary
+- Age 67: 10× annual salary
+
+These assume Social Security will cover ~40% of pre-retirement income (for average earners).
+
+## Social Security Optimization
+
+Claiming age dramatically affects lifetime benefits:
+- Age 62 (earliest): Benefit reduced by up to 30% permanently
+- Full Retirement Age (FRA): Age 67 for those born after 1960
+- Age 70 (maximum): Benefit increased by 8%/year delay after FRA (24–32% bonus)
+
+Break-even analysis: Delaying from 62 to 70 breaks even at approximately age 80. If you expect to live past 80, delaying is mathematically superior.
+
+Married couples strategy: Higher-earning spouse delays to 70 to maximize the survivor benefit. Lower earner can claim earlier.
+
+## Target Date Funds
+
+Target date funds (e.g., Vanguard Target Retirement 2050) automatically:
+- Start aggressive (90%+ stocks when far from target date)
+- "Glide path" gradually shifts to more conservative as target date approaches
+- End at approximately 50% stocks / 50% bonds at target date
+
+Advantages: Set-it-and-forget-it simplicity, automatic rebalancing, low cost (~0.10–0.15% expense ratio).
+
+Suitable for anyone who doesn't want to manage their own asset allocation.
+
+## Healthcare in Retirement: The Hidden Risk
+
+Medical costs are the largest and most unpredictable retirement expense:
+- Average couple needs ~$315,000 for healthcare costs in retirement (Fidelity 2023 estimate)
+- Medicare eligibility begins at age 65 — gap between retirement and 65 is expensive
+- Long-term care (nursing home, home health aide) can cost $50,000–$100,000/year and is NOT covered by Medicare
+- Long-term care insurance: Consider purchasing at age 55–65 before premiums become prohibitive
+
+## Sequence of Returns Risk Mitigation
+
+The first 5–10 years of retirement are the most dangerous for a portfolio. A severe market decline early in retirement can permanently impair the portfolio even if markets eventually recover.
+
+Mitigations:
+1. Cash/bond buffer: Hold 1–3 years of expenses in cash/short-term bonds; spend from this during downturns rather than selling equities
+2. Flexible spending: Reduce discretionary spending by 10–15% during market downturns
+3. Part-time work in early retirement: Even $20,000/year from part-time work dramatically reduces portfolio withdrawal rate
+4. Annuity for base income: Consider a simple SPIA (single-premium immediate annuity) to cover essential expenses, freeing the equity portfolio for discretionary spending
+
+## Monte Carlo Simulation Interpretation
+
+A 90% success rate in Monte Carlo retirement planning means: In 90 out of 100 simulated scenarios using historical return distributions, the portfolio did not run out of money before the target date. A 90%+ success rate is generally considered sufficient for planning purposes.

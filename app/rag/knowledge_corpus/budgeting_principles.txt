@@ -1,0 +1,96 @@
+BUDGETING PRINCIPLES AND FRAMEWORKS
+
+## The 50/30/20 Rule
+
+The simplest evidence-based budgeting framework:
+- 50% of after-tax income: Needs (rent/mortgage, utilities, groceries, minimum debt payments, insurance)
+- 30% of after-tax income: Wants (dining out, entertainment, subscriptions, travel)
+- 20% of after-tax income: Savings and debt repayment above minimums
+
+Adjustments for high cost-of-living areas: Allow up to 60% for needs, reduce wants to 20%.
+Adjustments for aggressive wealth building: Reduce wants to 15–20%, increase savings to 25–35%.
+
+## Zero-Based Budgeting
+
+Every dollar of income is assigned a purpose at the start of the month. Total income minus total allocated = zero. Benefits:
+- Forces intentionality about every spending category
+- Eliminates "lifestyle creep" — unconscious spending increases
+- Reveals hidden expenses and subscriptions
+
+Best for people with irregular income or significant debt payoff goals.
+
+## Savings Rate: The Most Important Number
+
+Your savings rate (savings / gross income) determines retirement timeline more than investment returns:
+- 10% savings rate: ~43 years to retirement (from zero)
+- 20% savings rate: ~37 years to retirement
+- 30% savings rate: ~28 years to retirement
+- 50% savings rate: ~17 years to retirement
+- 70% savings rate: ~8 years to retirement
+
+(Assumes 5% real return, 4% safe withdrawal rate in retirement)
+
+The FIRE (Financial Independence, Retire Early) movement targets 25–33x annual expenses as the retirement number (4% withdrawal rule), achievable much faster with high savings rates.
+
+## Housing Cost Benchmarks
+
+Housing (rent/mortgage + utilities) should not exceed:
+- 28% of gross monthly income: Front-end ratio (lenders' guideline)
+- 36% of gross income: Total debt including housing (back-end ratio)
+- Rent: Maximum 30% of gross income (traditional "rent burden" threshold)
+- Mortgage: No more than 2.5–3x your annual gross income for the purchase price
+
+## Priority Order for Financial Resources
+
+1. Employer 401(k) match — free money, always capture first
+2. High-interest debt payoff (above 6–7% APR)
+3. Emergency fund (3–6 months expenses in cash)
+4. Max out HSA (if available — triple tax advantage)
+5. Max out Roth IRA ($7,000/year) or Traditional IRA
+6. Max out 401(k) ($23,000/year)
+7. 529 college savings (if applicable)
+8. Taxable brokerage account for additional investing
+9. Consider additional real estate or alternative investments
+
+This ordering optimizes tax efficiency and risk management simultaneously.
+
+## Lifestyle Inflation: The Wealth Killer
+
+As income grows, expenses have a strong tendency to grow proportionally — this is lifestyle inflation. The remedy is the "50% rule": When income increases, allocate at least 50% of the raise to savings/investment. This preserves lifestyle improvements while accelerating wealth accumulation.
+
+## Budget Categories and Benchmark Percentages
+
+Typical monthly budget breakdown as % of take-home income:
+- Housing: 25–35%
+- Food (groceries + dining): 10–15%
+- Transportation: 10–15%
+- Healthcare: 5–10%
+- Insurance: 5–8%
+- Utilities + Phone + Internet: 5–8%
+- Personal care: 3–5%
+- Entertainment: 5–8%
+- Savings + Investments: 15–25%
+- Debt payments (beyond minimums): 5–15%
+
+## Net Worth Tracking
+
+Monthly net worth tracking is the single most motivating financial habit:
+Net Worth = Total Assets - Total Liabilities
+
+Age-based net worth benchmarks (rough, median American data):
+- Age 30: 0.5–1x annual income
+- Age 40: 2–4x annual income
+- Age 50: 5–8x annual income
+- Age 60: 8–12x annual income
+
+The "Millionaire Next Door" benchmark: Net worth should be approximately (Age × Annual Income) / 10
+
+## Automating Good Financial Behavior
+
+The most effective budgeting system is one that runs on autopilot:
+1. Paycheck arrives → auto-transfer to retirement accounts (pre-tax)
+2. Remainder in checking → auto-transfer savings percentage to savings/investment accounts
+3. Remaining in checking = guilt-free spending money
+4. Never manually move money to savings — automate it on payday
+
+This "pay yourself first" system eliminates willpower dependency and ensures consistency.
