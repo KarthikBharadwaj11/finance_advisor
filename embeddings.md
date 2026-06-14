@@ -25,6 +25,7 @@ pgvector creation steps:
 );
 
 We used HNSW because our data is small and we dont really need clustering and it has better accuracy. 
+HNSW builds a graph connecting similar vectors for fast traversal, while IVFFlat clusters vectors into groups and only searches relevant clusters - IVFFlat needs enough data to form meaningful clusters, which is why HNSW suits a small corpus.
 
 
 COnceptual SQL for FAISS vs PgVector:
