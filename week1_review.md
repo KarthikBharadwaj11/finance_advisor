@@ -7,3 +7,5 @@ Prompt engineering have 4 major rules, which are to never give advices from memo
 
 Why grounding is important?
 Without the grounding rules the LLM might answer very vaguely. This result in hallucinations. For example, if the user asks the system if his savings this month are enough to buy a car, the LLM without context can reply saying his savings are $2000 this month and he cannot afford a car. Without his financial knowledge, the number is just made up. The user has never mentioned any numerical value to the LLM for it to come up with $2000. Whereas with context, the LLM will know what the user's savings are and will give out a valid response.
+
+When the iteration limit is hit, my app returns 'Analysis incomplete: maximum reasoning steps reached' rather than a partial result or a silent failure. It's a graceful degradation — the user knows something went wrong rather than receiving a fabricated or incomplete analysis presented as complete. In a production improvement, I'd also want to return whatever partial tool results were collected before the limit was hit, so the user gets some value even from an incomplete run
