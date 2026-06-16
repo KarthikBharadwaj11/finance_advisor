@@ -22,7 +22,7 @@
             # Last resort — fall back to fixed size
             return _split_text(text, chunk_size, overlap)
         
-        parts = text.split(separator)
+      parts = text.split(separator)
         if len(parts) > 1:
             break
     
@@ -46,6 +46,6 @@
 
 
    How to test retrieval quality?
-   Retrieval quality can be tested based on how the reposne of the LLM is, or rather how accurate it is with respect to the query. More accurate implies that the retrieval quality is better.
+   Retrieval quality can be tested based on how the reposne of the LLM is, or rather how accurate it is with respect to the query. More accurate implies that the retrieval quality is better. Write 10 test questions with known answers, run both chunking strategies, count how many of the top 4 returned chunks actually contain the answer. 
 
    Rcursive splitting for thhis corpus size is better since semantic chunking is expensive and for this small data, might be an overkill. Whereas recursice character splitting is vetetr than fixed size since it respects text boundaries wherever possible. 
