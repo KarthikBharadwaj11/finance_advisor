@@ -4,7 +4,7 @@
 3. semantic chunking: It embdes each sentence, measures similarity betweeb adjacent sentences and splits where similarities drop signficantly. The pros are that unlike others, it splits at actual meaning boundaries and keeps complete concepts together. The cons are that its expensive and requirs embedding every sentence.
 
 4. Recursive function:
-   
+   ''' python
    def _split_text_recursive(
     text: str,
     chunk_size: int = CHUNK_SIZE,
@@ -44,6 +44,8 @@
         chunks.append(current_chunk.strip())
     
     return [c for c in chunks if c]
+
+   '''
 
    How to test retrieval quality?
    Retrieval quality can be tested based on how the reposne of the LLM is, or rather how accurate it is with respect to the query. More accurate implies that the retrieval quality is better. Write 10 test questions with known answers, run both chunking strategies, count how many of the top 4 returned chunks actually contain the answer. 
