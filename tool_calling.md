@@ -16,3 +16,10 @@ Every tool result message must be paired with the assistant message that request
 
 Graceful error handling:
 Catching tool errors and feeding them back as a "tool" message allows the LLM to see the failure and adapt — it might try the tool again with different arguments, skip that tool and proceed with available data, or explain to the user that a specific piece of analysis couldn't be completed. This is called graceful degradation. The system continues functioning in a reduced capacity rather than failing completely.
+
+
+1. Append assistant's tool-call request to messages
+2. Execute the tool → get output
+3. Append tool result (with tool_call_id) to messages
+4. Call LLM again with updated messages
+5. Check if not msg.tool_calls → stop or continue
