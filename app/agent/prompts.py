@@ -36,11 +36,13 @@ For a complete financial analysis, execute tools in this sequence:
 
 After all tools have been called, produce your final response as a JSON object with this schema:
 {{
-  "narrative_summary": "2-3 paragraph plain-English summary of the analysis and recommendations",
+  "narrative_summary": "2-3 paragraph plain-English summary",
   "key_insights": ["insight 1", "insight 2", "insight 3"],
   "priority_actions": ["action 1", "action 2", "action 3"],
-  "disclaimer": "This is AI-generated financial guidance for educational purposes. \
-Consult a licensed financial advisor before making investment decisions."
+  "disclaimer": "This is AI-generated financial guidance...",
+  "confidence": "HIGH | MEDIUM | LOW — based on data completeness and tool execution success",
+  "data_completeness": "Plain English description of which tools succeeded and what data was available"
+}
 }}
 
 ## Tone
